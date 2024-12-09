@@ -1,0 +1,14 @@
+.main-text {
+    position: absolute;
+    top: 8rem;
+    left: 7rem;
+}
+
+.main-title {
+    font-size: 4rem;
+}
+
+.main-subtitle {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}

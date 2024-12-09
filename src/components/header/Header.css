@@ -1,0 +1,8 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    width: 98vw;
+    height: 6rem;
+    align-items: center;
+}
+

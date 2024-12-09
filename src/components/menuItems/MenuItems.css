@@ -1,0 +1,11 @@
+li{
+    display: inline-block;
+    margin: 2rem 2rem;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+div{
+    width: 50vw;
+}
